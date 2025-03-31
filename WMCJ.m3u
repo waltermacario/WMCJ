@@ -38,9 +38,6 @@ http://brglobalstation.duckdns.org:8080/hls/brglobalstation.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", teste
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w929738024.m3u8
-
 
 
 
@@ -84,9 +81,6 @@ http://168.205.87.198:8555/live/michele/123456/84.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", RATIMBUM
 http://168.205.87.198:8555/live/1221/123456/84.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", CHESPIRITO
-http://168.205.87.198:8555/live/michele/123456/159.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", KIDS
 http://168.205.87.198:8555/live/michele/123456/143.ts?checkedby:iptvcat.com
@@ -192,8 +186,7 @@ https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8?ManoTV
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radio", Fm O Dia
-https://cdn.livespanel.com/live/mobile/chunks.m3u8?nimblesessionid=7109672
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radio", Catve Fm
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
@@ -259,9 +252,6 @@ https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radio", Super Radio Tupi
-https://8923.brasilstream.com.br/stream
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radio", Super Radio Tupi
 https://011news.akamaized.net/011news/011news/chunklist_480p.m3u8
 
 
@@ -280,15 +270,6 @@ https://011news.akamaized.net/011news/011news/chunklist_480p.m3u8
 
 #EXTINF:-1 tvg-logo="000" group-title="Notícias", CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", JP NEWS
-http://168.205.87.198:8555/live/1221/123456/161.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", RECORD NEWS
-http://168.205.87.198:8555/live/1221/123456/97.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", TV VIDEONEWS
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ManoTV
 
 
 
@@ -448,26 +429,16 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11355/thumb_TV_Channel_Network.jpeg" group-title="Variedades", TV Channel Network Ao Vivo
 https://alanza.iptv2022.com/TVChannelNetwork-ptbr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="Variedades", Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bf91e27961ebf72e35f3d918964977b.webp" group-title="Variedades", MKK Web TV cultura, Musicas holistica
+
+#EXTINF:-1 tvg-logo="0" group-title="Variedades", MKK Web TV cultura, Musicas holistica
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Variedades", Canal Tv Rio
-https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e187c45177e852534ded7b600bb80e6.webp" group-title="Variedades", TV ERENEWS
 https://stmv1.samcast.com.br/erenews/erenews/chunklist_w1571167484.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee32135a0ae4307048d3b24d0891738f.webp" group-title="Variedades", Tela Viva Tv
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w523887901.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/332145827a7208eb36f059b636f2d58c.webp" group-title="Variedades", EUTV
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="Variedades", RETRO PLUS TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b784f1b70ce44864b41c87edda64422e.webp" group-title="Variedades", Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
