@@ -85,12 +85,6 @@ http://168.205.87.198:8555/live/michele/123456/84.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", RATIMBUM
 http://168.205.87.198:8555/live/1221/123456/84.ts?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Undefined", CHESPIRITO
-http://168.205.87.198:8555/live/1431/123456/159.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", CHESPIRITO
-http://168.205.87.198:8555/live/1221/123456/159.ts?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", CHESPIRITO
 http://168.205.87.198:8555/live/michele/123456/159.ts?checkedby:iptvcat.com
 
@@ -130,8 +124,6 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w380857730.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", Miss Universo Brasil HD | Brasil
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", Naturescape by Stingray
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1014
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
@@ -563,9 +555,6 @@ https://alanza.iptv2022.com/CLC/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Filmes", Soul Cine Clube | Brasil
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Filmes", FRONTEIRA MOVIES
-https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1487374814.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Filmes", TV PROGRESSO
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist_w163705624.m3u8
 
@@ -646,12 +635,6 @@ https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/c
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f869e31dbca32dca5d9adda8f13fcd09.webp" group-title="Câmera", Cascavel Panorâmica
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f869e31dbca32dca5d9adda8f13fcd09.webp" group-title="Câmera", Cascavel - Centro
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8875cb793208fb74d4ab6225972247a1.webp" group-title="Câmera", Pico do Gavião
-https://cdn.jmvstream.com/w/IPC-6753/camera.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/863f04f8cd9195e096715b9e0def4c11.webp" group-title="Câmera", Aspen Square Hotel
 https://2-fss-2.streamhoster.com/pl_126/200612-1195856-1/chunklist.m3u8
