@@ -285,22 +285,7 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 http://168.205.87.198:8555/live/1221/123456/161.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", RECORD NEWS
-http://168.205.87.198:8555/live/1431/123456/97.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", RECORD NEWS
-http://168.205.87.198:8555/live/michele/123456/97.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", RECORD NEWS
 http://168.205.87.198:8555/live/1221/123456/97.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", 4 POR 4
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", AVANÇA BRASIL
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", Resumo da Opera
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", TV VIDEONEWS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ManoTV
