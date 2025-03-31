@@ -112,8 +112,8 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w380857730.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", Miss Universo Brasil HD | Brasil
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
@@ -141,11 +141,11 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
 
 TANQUE DE TUBARÕES SONY ONE
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios"
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" TANQUE DE TUBARÕES SONY ONE
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/c2032cfc-1b40-4d4c-9e27-9d4ca544d515/1.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w1181700285_b259600_sleng.m3u8
 
 
 
@@ -251,8 +251,7 @@ https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radio", Pop Nacional
 https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radio", Super Radio Tupi
-https://011news.akamaized.net/011news/011news/chunklist_480p.m3u8
+
 
 
 
@@ -271,10 +270,11 @@ https://011news.akamaized.net/011news/011news/chunklist_480p.m3u8
 #EXTINF:-1 tvg-logo="000" group-title="Notícias", CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", Resumo da Opera
+https://011news.akamaized.net/011news/011news/chunklist_480p.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Notícias", Canal do Inter
+https://video01.soultv.com.br/internacional/internacional/chunklist_w1581026348.m3u8
 
 
 
@@ -366,8 +366,8 @@ http://conexao-vs.live/BAND/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="000" group-title="Variedades", Chroma TV 
+https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w147488788.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eab8e4fcefd5980ba7e4aaf007da267d.webp" group-title="Variedades", Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
@@ -428,8 +428,6 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11355/thumb_TV_Channel_Network.jpeg" group-title="Variedades", TV Channel Network Ao Vivo
 https://alanza.iptv2022.com/TVChannelNetwork-ptbr/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="0" group-title="Variedades", MKK Web TV cultura, Musicas holistica
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
