@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Animax 
 https://stream.ichibantv.com:3547/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Teste", KIDS
-http://168.205.87.198:8555/live/1221/123456/143.ts?checkedby:iptvcat.com
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Multi Canais 
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
