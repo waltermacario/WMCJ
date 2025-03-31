@@ -160,8 +160,8 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musicas", Clubbing TV | Samsung Brasil
+https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musicas", Músicas
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1071554746.m3u8
@@ -330,14 +330,8 @@ https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canal aberto", TVC Correio da manhã
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72171b6c814a0b231412516702c9b3d4.webp" group-title="Canal aberto", Tv O Povo
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w174445339.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/803571c05f24fd96726b7d55c49982c1.webp" group-title="Canal aberto", Rede TV Sul
 https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist_w1930182842.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2322d929ab7c617fbab73beb02b6d7f7.webp" group-title="Canal aberto", Tv Metropolitana Rio
-https://alanza.iptv2022.com/METROPOLITANA_RIO/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/75828f2964798b219021e4f44c3edb58.webp" group-title="Canal aberto", 1001 noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
@@ -356,9 +350,6 @@ http://video01.soultv.com.br/universidadedapessoa/universidadedapessoa/playlist.
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canal aberto", XR Health Brasil
 http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canal aberto", Clubbing TV | Samsung Brasil
-https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canal aberto", TV BRAGA BRASIL
 https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
