@@ -326,14 +326,8 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dca3e8515eaaa4f897e40ec0ee001cb7.webp" group-title="Canal aberto", Igreja Mundial
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74a615920288577b11ec8ae78badf28b.webp" group-title="Canal aberto", REDE UTV
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/43a5c48b9848b88ba8ba2b63bd79940f.webp" group-title="Canal aberto", SBT - PE Caruaru
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
-
-#EXTINF:-1 tvg-logo="00" group-title="Canal aberto", Globo
-http://zutufo.in:80/live/781487031/K788a6763d/2374_.m3u8
 
 #EXTINF:-1 tvg-logo="00" group-title="Canal aberto", Band
 http://conexao-vs.live/BAND/index.m3u8
@@ -458,9 +452,6 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="Variedades", LOADING TV
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc6864b4347e734ef28e420291c46140.webp" group-title="Variedades", Canal TV Rio
-https://stmv1.srvstm.com/luis5346/luis5346/chunklist_w605260532.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bc55440bcb62e9ab220e35470b1bc7b.webp" group-title="Variedades", TV Cinec
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
