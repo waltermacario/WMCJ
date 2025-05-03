@@ -2,8 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Animax 
-https://stream.ichibantv.com:3547/stream/play.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Multi Canais 
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
@@ -73,11 +72,7 @@ https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="Desenhos", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", RATIMBUM
-http://168.205.87.198:8555/live/michele/123456/84.ts?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", RATIMBUM
-http://168.205.87.198:8555/live/1221/123456/84.ts?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", KIDS
 http://168.205.87.198:8555/live/michele/123456/143.ts?checkedby:iptvcat.com
@@ -287,9 +282,6 @@ https://video01.soultv.com.br/internacional/internacional/chunklist_w1581026348.
 
 
 
-
-#EXTINF:-1 tvg-logo="000" group-title="Canal aberto", GLOBO RJ
-https://live-as-02-16.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDItMTYudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQ1MjQ1OTYyLCJpYXQiOjE3NDUxNTk1NjIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiZTZjM2VmYTAtMzc5NC00ODliLWJkYzMtNDNjYzUyZWM4OGUwIiwicGF0aCI6Ii9udS9mKGR2cj0xMjAsaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.p7N8iu3zDbpmLFgwZbKKX7_6YV_sTUhTXnK84G_BlF6khk-q2jdTW4VLAZZucQPKEfJ6UOaO2DvI3loE85TrgQsO82siZuOhcNtG-wNcY04W0RqkMNCZU0-5yT_t0H2f2gey-F5KmgzrCtGiCPQJT3zhA_dQBenUE4NAad20ZbwDjpkPDgo4SNwF2xaZOB6p3qr6qeQlhpYGhXiRZdR7NTdWnFw51uG1Ssk6GAW0hvYaZB87AQo94EFhS_WWYct_T_QSaU5NYD5-Jk-ihsKGqIPP5pK6OcOUshthrH4ndg9BD6eyOVxcsuVgmTLFWKmEHFZqphkVRR_a_cqTsOT3-g/nu/f(dvr=120,i=2)/globo-rj/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d763ea519688a3d155d370eaa3c9892b.webp" group-title="Canal aberto", Futura
