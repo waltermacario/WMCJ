@@ -114,6 +114,47 @@ https://stmv6.voxtvhd.com.br/retrotv4/retrotv4/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais CLASSIQUE", CHANNEL 1
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais CLASSIQUE", CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais CLASSIQUE",1980 CHANNEL
+https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais CLASSIQUE",TV SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais CLASSIQUE",MULTICANAIS
+https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais CLASSIQUE",GOSPEL MOVIES CHANNEL
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais CLASSIQUE",GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
