@@ -68,9 +68,6 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="Desenhos", RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", KIDS Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
@@ -97,6 +94,20 @@ https://cdn-1.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5ce59e5a4f52bbc5c6419fe5a8674447.webp" group-title="Desenhos", Loading Tv
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w921228514.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", RETRO CARTOON 1 - SÃO PAULO
+https://stmv6.voxtvhd.com.br/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", RETRO CARTOON 2 - RECIFE
+https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", RETRO CARTOON 3 - PORTO ALEGRE
+https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", RETRO CARTOON 4 - BRASILIA
+https://stmv6.voxtvhd.com.br/retrotv4/retrotv4/playlist.m3u8
+
+
 
 
 
