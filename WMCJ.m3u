@@ -3,67 +3,20 @@
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Multi Canais 
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", AWTV 
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", scoob doo
+http://24hrs.homelinux.com:8080/24H-scoobdoo/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Rede Manchete
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", pica pau
+http://24hrs.homelinux.com:8080/24H-picapau/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Bons Tempos
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", Coragem 
+http://24hrs.homelinux.com:8080/24H-caocoragem/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", TVI Ficção | Portugal
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", Os Simpsons 
+http://24hrs.homelinux.com:8080/24H-ossimpsons/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Classique TV 
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Ponte Preta | Campinas SP | Soul TV Brasil
-https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", canal sem nome
-http://brglobalstation.duckdns.org:8080/hls/brglobalstation.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="teste", Rede Minas
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", Turma da Monica 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Desenhos", Fox Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
@@ -148,19 +101,23 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios",hgtv
+https://new.m3u8.one/hgtv/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios",ARTE1
+https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios",NATURE TV
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", Drone
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios",Urban Docs
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios",Urban Travel
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -208,11 +165,11 @@ https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" TV NND
 https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" Manual do Mundo
+https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist/amg17288-offgridcreativecontentfast-manualdomundo-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&amp;amp
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" Pet Collective
+https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist/amg17288-offgridcreativecontentfast-manualdomundo-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&amp;amp
 
 
 
@@ -353,8 +310,8 @@ https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="000" group-title="Notícias", Dia Tv
+https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist/amg17288-offgridcreativecontentfast-manualdomundo-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&amp;amp
 
 #EXTINF:-1 tvg-logo="000" group-title="Notícias", CNN Brasil
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
@@ -449,8 +406,8 @@ http://conexao-vs.live/BAND/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="000" group-title="Variedades", Trace Brazuca
+https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist/amg17288-offgridcreativecontentfast-manualdomundo-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&amp;amp
 
 #EXTINF:-1 tvg-logo="000" group-title="Variedades", Chroma TV 
 https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w147488788.m3u8
@@ -613,68 +570,6 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/05a04d20468f33dcece26a290b7468d6.webp" group-title="Câmera", Catve
-https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Câmera", Calle Ocho
-https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/13866/2018/10/15/1300.mp4/chunklist_w514974886.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Câmera", Coconut Grove Marina
-https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/3275/2019/01/30/1300.mp4/chunklist_w581738193.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Câmera", Miami Bay Biscayne Bay
-https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/miamivishd4/2018/09/19/1300.mp4/chunklist_w1914161600.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Câmera", Mulberry Street
-https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/5775/2017/09/16/1400.mp4/chunklist_w1483064420.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Câmera", Blumenau - Antonio da Veiga
-https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20004.stream/chunklist_w1710145350.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Câmera", Brusque - Rua Carlos Gracher
-https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20007.stream/chunklist_w1786663289.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Câmera", Itajai - Praia Brava
-https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20009.stream/chunklist_w357705268.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f9c0be8620683d55d178d1657ad7c96.webp" group-title="Câmera", Ponte Internacional da Amizade
-https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f869e31dbca32dca5d9adda8f13fcd09.webp" group-title="Câmera", Cascavel Panorâmica
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/863f04f8cd9195e096715b9e0def4c11.webp" group-title="Câmera", Aspen Square Hotel
-https://2-fss-2.streamhoster.com/pl_126/200612-1195856-1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb30fb1dc6785ad19d59e5a7520cdcf0.webp" group-title="Câmera", Gondola Plaza Aspen
-https://2-fss-2.streamhoster.com/pl_126/200612-1195860-1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e38cd5526d5729065b538d59a66b03d.webp" group-title="Câmera", Jerusalém - Western Wall Live cam
-https://hd-auth.skylinewebcams.com/live.m3u8?a=uh30qsbtpft16n8p9k4502b2b0
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f1fbf634c14503da2df30acbc085314.webp" group-title="Câmera", giraffe-cam
-https://zssd-kijami.hls.camzonecdn.com/CamzoneStreams/zssd-kijami/chunklist.m3u8
 
 
 
