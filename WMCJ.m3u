@@ -147,28 +147,28 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
 
 TANQUE DE TUBARÕES SONY ONE
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" TANQUE DE TUBARÕES SONY ONE
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", TANQUE DE TUBARÕES SONY ONE
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/c2032cfc-1b40-4d4c-9e27-9d4ca544d515/1.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" Canal do Criador
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/chunklist_w1181700285_b259600_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" Pluto TV Canal UOL
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", Pluto TV Canal UOL
 https://video01.soultv.com.br/uoltv/uoltv/chunklist_w1013411609.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" Tv Forum
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", Tv Forum
 https://video05.logicahost.com.br/extremotv/extremotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" TV HISTÓRIA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", TV HISTÓRIA
 https://srv1.zcast.com.br/tvhistoria/tvhistoria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" TV NND
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", TV NND
 https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" Manual do Mundo
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", Manual do Mundo
 https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist/amg17288-offgridcreativecontentfast-manualdomundo-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&amp;amp
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios" Pet Collective
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Documentarios", Pet Collective
 https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist/amg17288-offgridcreativecontentfast-manualdomundo-lgbr/playlist.m3u8?ads.deviceid=[DEVICE_ID]&amp;amp
 
 
@@ -566,6 +566,10 @@ https://5d82644094cc0.streamlock.net/8192/8192/chunklist_w1531859151.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Filmes", GLN TV 
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+
+
+
+
 
 
 
