@@ -581,7 +581,7 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 
 
 
-#EXTINF:-1,Animais | Pluto TV Brasil
+#EXTINF:-1 group-title="Pluto TV",Animais | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1,Animais | Pluto TV Brasil | link 2
